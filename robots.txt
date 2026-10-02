@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-8316354175.lqprius.cn/sitemap.xml
